@@ -1,0 +1,1 @@
+Publique os arquivos em hospedagem HTTPS. Abra index.html no Safari, toque em Compartilhar e Adicionar à Tela de Início. Abra online inicialmente para preparar o cache offline. Protótipo: use somente dados fictícios. Não há autenticação segura, criptografia ou backup. Não envie dados de pacientes ao GitHub.
